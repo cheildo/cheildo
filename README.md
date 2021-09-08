@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cheildo
-- 👀 I’m interested in solidity projects, python and javascript 
+- 👋 Hi, I’m Chek, @cheildo
+- 👀 I’m a fullstack and blockchain developper. Solidity, Python, Java, javascript,HTML, CSS, PHP
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ethereum blockchain prohect
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ethereum blockchain projects
+- 📫 Email: cheickzida@gmail.com
 
 <!---
 cheildo/cheildo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
