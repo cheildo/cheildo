@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chek, @cheildo
 - 👀 I’m a fullstack and blockchain developper. Solidity, Python, Java, javascript,HTML, CSS, PHP
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ethereum blockchain projects
 - 📫 Email: cheickzida@gmail.com
 
