@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chek, @cheildo
+- 👋 Hi, I’m Cheick, @cheildo
 - 👀 I’m a software engineer. Solidity, Java, Springboot, React JS
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ethereum blockchain projects
