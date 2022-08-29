@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chek, @cheildo
-- 👀 I’m a fullstack and blockchain developper. Solidity, Java, Springboot, Hibernate, javascript,React JS,HTML, CSS, PHP
+- 👀 I’m a software engineer. Solidity, Java, Springboot, React JS
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ethereum blockchain projects
 - 📫 Email: cheickzida@gmail.com
