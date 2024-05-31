@@ -5,7 +5,7 @@
 - 💻 Most of my work is on gitea.com and is private. 
 
 ### 🌵🍎 More about me:
-- 👀 I am working for a gaming company in Taiwan
+- 👀 I work for a gaming company in Taiwan
 - 📝 I write coding articles on Medium
 - 🥊🏋🏿‍♂️ I am also an athlete
 
