@@ -1,20 +1,17 @@
 ### 😀 Welcome on my Github page
-- 👋 My name is Cheick. I am a software enginer 🧑🏿‍💻 (backend and blockchain).
+- 👋 I am a software enginer 🧑🏿‍💻 specialized in backend and blockchain development.
 - 💪🏿 I have been working in the blockchain industry for over 4 years and I have actively contributed to many projects 🤖.
 - 🤓 My work is not public on Github, but i do put some open source content here, mostly related to the articles i publish on Medium 📃.
-- 💻 Most of my work is on gitea.com and is private. 
 
 ### 🌵🍎 More about me:
-- 👀 I work for a gaming company in Taiwan
 - 📝 I write coding articles on Medium
-- 🥊🏋🏿‍♂️ I am also an athlete
+- 🥊🏋🏿‍♂️ I am an athlete
 
 
 ### 🔨 Languages and Tools:
 - Solidity
 - Golang
 - Node.js
-- Web3.js
 
 ### 📱 My socials:
 - [Linktr.ee](https://linktr.ee/cheickzida)
