@@ -1,6 +1,6 @@
 ### Hi, I'm Chek Zida 紀達 👋
 
-I'm a Software Engineer specializing in building scalable backend systems and decentralized applications. With over 5 years, my focus is on creating robust and efficient solutions.
+I'm a Senior Software Engineer specializing in building scalable backend systems and decentralized applications. With over 5 years, my focus is on creating robust and efficient solutions.
 
 ---
 
